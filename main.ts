@@ -1,5 +1,8 @@
 basic.clearScreen()
 music.stopAllSounds()
+basic.forever(function on_forever() {
+    basic.showIcon(IconNames.Heart)
+})
 loops.everyInterval(100, function on_every_interval() {
     
 })

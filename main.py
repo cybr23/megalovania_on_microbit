@@ -1,6 +1,10 @@
 basic.clear_screen()
 music.stop_all_sounds()
 
+def on_forever():
+    basic.show_icon(IconNames.HEART)
+basic.forever(on_forever)
+
 def on_every_interval():
     pass
 loops.every_interval(100, on_every_interval)
