@@ -1,4 +1,4 @@
 
 > made with python
 
-##reaw code can be found [here](pastebin.com/PAXyqDS3)
+raw code can be found [here](pastebin.com/PAXyqDS3)
